@@ -1,7 +1,9 @@
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>, I am Vishal! 🚀
 
 # 💫 About Me:
-Hey there! I'm Vishal Chaurasia 👨‍💻 from India, a passionate MERN Stack Developer with a love for AI/ML, Java, Python, C++, and Web Technologies. I enjoy solving complex problems, building scalable applications, and thinking with a business-first approach.<br><br>I don’t just code—I create solutions. ✨<br>Feel free to connect with me https://www.instagram.com/v_shal_140/ for anything tech-related or just to say hello! Let's shape the future of tech together. <br><br>⚡ Tech Stack & Expertise<br>Talk to me about:<br>✔ Full-Stack Development (React.js, Node.js, Express.js, MongoDB)<br>✔ AI/ML, DSA, & Algorithmic Problem Solving<br>✔ Backend Development (Django, Flask, Node)<br>✔ Database Management (MySQL, PL/SQL, PostgreSQL,)<br>✔ Mathematics & Data Structures<br><br>💬 Let’s Connect & Collaborate! Feel free to DM me for tech discussions, collaborations, or just to say hello. 😎
+Hey there! I'm Vishal Chaurasia 👨‍💻 from India, a passionate MERN Stack Developer with a love for AI/ML, Java, Python, C++, and Web Technologies. I enjoy solving complex problems, building scalable applications, and thinking with a business-first approach.<br><br>I don’t just code—I create solutions. ✨<br>Feel free to connect with me https://www.linkedin.com/in/vishal-chaurasia14/ or https://www.instagram.com/v_shal_140/ for anything tech-related or just to say hello! Let's shape the future of tech together. <br><br>⚡ Tech Stack & Expertise<br>Talk to me about:<br>✔ Full-Stack Development (React.js, Node.js, Express.js, MongoDB)<br>✔ AI/ML, DSA, & Algorithmic Problem Solving<br>✔ Backend Development (Django, Flask, Node)<br>✔ Database Management (MySQL, PL/SQL, PostgreSQL,)<br>✔ Mathematics & Data Structures<br><br>💬 Let’s Connect & Collaborate! Feel free to DM me for tech discussions, collaborations, or just to say hello. 😎
+
+[![An image of @vishalcod's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalcod)](https://holopin.io/@vishalcod)
 
 
 ## 🌐 Socials:
